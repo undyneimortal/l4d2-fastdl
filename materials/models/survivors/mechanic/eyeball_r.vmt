@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$iris" "models\survivors\mechanic\eyes"
+	"$baseTexture" "models\survivors\mechanic\jigsaw_eyes"
+}

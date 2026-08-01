@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/custom/cr_twoface/Twoface_Eye_D"
+$halflambert 1
+}

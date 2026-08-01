@@ -1,0 +1,14 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+	{
+		$basetexture "models/custom/msf/finnadv/finn_face_it"
+		$bumpmap "models/custom/msf/finnadv/finn_face_nrm_it"
+		$lightwarptexture "models/custom/msf/finnadv/lightwarp_it"
+		$phong "1"
+		$phongexponent ".1"
+		$phongboost ".1"
+		$phongfresnelranges "[.1 .1 .1]"
+	}
+}

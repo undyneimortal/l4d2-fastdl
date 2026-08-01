@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture 				"models/custom/jhonwick/suit"
+	$phong					1
+	$phongboost				"1"
+	$phongexponent				"1"
+	$phongtint				"[0.3 0.3 0.4]"
+	$phongfresnelranges			"[0.3 3 10]" //"[0.5 0.8 35]" //"[.5 3 48]"
+
+	$rimlight					1
+	$rimlightexponent			"256"
+	$rimlightboost				"1"
+
+	$ambientocclusion			1
+	$halflambert				0
+
+	$diffuseexp "1.5"
+
+	//$detail "models/payday2/player/shared/cloth"
+	//$detailscale 16
+	//$detailblendfactor 1
+	//$detailblendmode 0
+}

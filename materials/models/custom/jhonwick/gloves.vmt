@@ -1,0 +1,11 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/custom/jhonwick/gloves"
+
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" "3" 
+ 
+	"$phongfresnelranges" "[ .1 3 15]"
+	"$phongexponent" "8"
+}

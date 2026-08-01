@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/custom/jhonwick/hair"
+	"$translucent" 1
+	//"$alphatest" 1
+	//$allowalphatocoverage 1
+	"$nocull" 1
+	//"$halflambert" 1
+}

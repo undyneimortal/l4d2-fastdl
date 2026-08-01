@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\fearless\skins\survivors\cat\BananaCat"
+	"$bumpmap" "models\fearless\skins\survivors\cat\flat"
+	"$translucent" 1
+
+}

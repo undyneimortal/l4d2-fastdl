@@ -1,0 +1,12 @@
+unlitgeneric
+{
+$basetexture "fearless/particle/rainbow_c"
+
+$nocull 1
+$splinetype 1
+$depthblend 0
+$depthblendscale 16
+$vertexcolor 1
+$vertexalpha 1
+$orientation 3
+}

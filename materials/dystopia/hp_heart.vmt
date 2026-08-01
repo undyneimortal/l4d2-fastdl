@@ -1,0 +1,7 @@
+SpriteCard
+{
+	$additive 1
+	$basetexture "dystopia/hp_heart"
+	$vertexcolor 1
+	$vertexalpha 1
+}

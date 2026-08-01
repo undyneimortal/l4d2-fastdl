@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\custom\pain\Cape"
+	"$translucent" 1
+
+}

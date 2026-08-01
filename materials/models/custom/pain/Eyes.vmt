@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\custom\pain\Eyes"
+	"$translucent" 1
+
+}

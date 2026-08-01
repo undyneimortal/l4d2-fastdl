@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	$basetexture 	"models\nationz\survivors\BlackSoldier\us_army_smg_alpha_col"
+	$bumpmap 	"models\nationz\survivors\BlackSoldier\us_army_smg_alpha_n"
+                "$nodecal" "1"
+                  $additive                      "1"
+	$phong 		"1"
+	$phongboost 	"0.5"
+	$phongexponent 	"6"
+	$phongtint		"[0.5 0.425 0.36]"
+	$phongalbedotint          "1"
+	$halflambert	"1"
+	$rimlight                       "1"	
+	$rimlightexponent         "12"
+	$rimlightboost              "0.3"
+}

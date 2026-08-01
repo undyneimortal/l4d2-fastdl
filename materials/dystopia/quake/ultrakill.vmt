@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "dystopia/quake/ultrakill"
+	$translucent 1
+}

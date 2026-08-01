@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+$baseTexture "models/fearless/survivors/spirit/witch_eye"
+
+"$nodecal" "1"
+
+"$selfillum" "1"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/custom/cr_twoface/Twoface_Hair_D"
+
+$alphatest 1
+}

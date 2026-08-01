@@ -1,0 +1,22 @@
+patch
+{
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$basetexture" "models/dystopia/survivors/MoonMan/hands_glove"
+	"$color2" "[0.75 0.75 0.75]"
+	"$bumpmap"     "models/dystopia/survivors/MoonMan/hands_glove_n"
+	"$nodecal" "1"
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1.5"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "3"
+	"$phongfresnelranges"	"[.05 .15 1]"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.25"
+	"$rimlightexponent" "4"
+}
+}

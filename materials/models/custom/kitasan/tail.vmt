@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\custom\kitasan\tail"
+	"$bumpmap" "models\custom\kitasan\tail_normal"
+	"$translucent" 1
+}

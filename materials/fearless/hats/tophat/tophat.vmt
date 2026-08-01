@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "fearless\hats\tophat\tophat"
+	"$nocull" 1
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/custom/msf/finnadv/finn_face"
+	$bumpmap "models/custom/msf/finnadv/finn_face_nrm"
+	$lightwarptexture "models/custom/msf/finnadv/lightwarp"
+	$phong "1"
+	$phongexponent ".1"
+	$phongboost ".1"
+	$phongfresnelranges "[.1 .1 .1]"
+}

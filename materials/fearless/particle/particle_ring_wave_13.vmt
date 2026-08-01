@@ -1,0 +1,8 @@
+spritecard
+{
+$basetexture "fearless\particle\particle_ring_wave_13"
+$translucent 1
+$additive 1
+$nocull 1
+$depthblend 0
+}

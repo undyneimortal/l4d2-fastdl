@@ -1,0 +1,10 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+	{
+		"$basetexture" "models\custom\msf\pepsiman\pepsi_body_dif"
+		"$nocull"	"1"
+		"$alphatest" "1"
+	}
+}

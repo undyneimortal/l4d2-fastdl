@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dystopia/survivors/2B_Zoey/hair_2"
+	"$bumpmap" "models/dystopia/survivors/2B_Zoey/hair_2_nrm"
+	"$alphatest" 1
+	$allowalphatocoverage 1
+	$nocull 1
+   	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" ".05"
+	"$phongexponent" "15"
+	"$phongfresnelranges" "[.1 .1 .1]"
+        "$phongtint" "[120 70 40]"
+
+                "$nodecal" "1"
+}

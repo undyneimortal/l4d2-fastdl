@@ -1,0 +1,29 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/custom/jhonwick/collateral_lenses"
+
+
+	$surfaceprop "glass"
+
+	$translucent "1"
+ 
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.1 3 10]"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "3" 
+	"$rimlightboost" "2.5" 
+	"$rimmask" 1
+
+	$halflambert 0
+	$diffuseexp 1.5
+
+	"$envmap" "env_cubemap"
+	//"$envmaptint" "[0.04 0.04 0.04]"
+	"$envmaptint" "[0.1 0.1 0.13]"
+	"$normalmapalphaenvmapmask" 1
+
+}

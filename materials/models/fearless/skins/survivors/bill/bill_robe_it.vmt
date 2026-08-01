@@ -1,0 +1,15 @@
+patch
+{
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+$baseTexture "models/fearless/skins/survivors/bill/bill_robe_color"
+$bumpmap "models/fearless/skins/survivors/bill/bill_robe_normal"
+$halflambert 1
+$phong 1
+$phongboost "0.25"
+$phongexponent 5
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 4 30]"
+$ambientocclusion 1
+}

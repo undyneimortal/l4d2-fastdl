@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "fearless/hats/fedorahat/fedorahat2"
+	"$nocull" 1
+}

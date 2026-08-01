@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\custom\bananacat\BananaHair"
+	"$bumpmap" "models\custom\bananacat\flat"
+	"$translucent" 1
+
+}

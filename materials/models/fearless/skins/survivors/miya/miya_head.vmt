@@ -1,0 +1,19 @@
+patch
+{
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+$baseTexture "models/fearless/skins/survivors/miya/miya_head_color"
+$bumpmap "models/fearless/skins/survivors/miya/miya_head_normal"
+
+$halflambert 0
+$diffuseexp "1.5"
+$ambientocclusion 1
+
+$phong 1
+$phongboost ".6"
+$phongfresnelranges "[.07 .3 10]"
+
+$lightwarptexture "models/survivors/coach/coach_head_wrp"
+}
+}

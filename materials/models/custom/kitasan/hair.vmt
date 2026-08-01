@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\custom\kitasan\hair"
+	"$bumpmap" "models\custom\kitasan\hair_normal"
+	"$translucent" 1
+}

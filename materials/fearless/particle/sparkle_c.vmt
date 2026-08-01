@@ -1,0 +1,6 @@
+SpriteCard
+{
+$basetexture "fearless/particle/sparkle_c"
+$OVERBRIGHTFACTOR 2.0
+$translucent 1
+}

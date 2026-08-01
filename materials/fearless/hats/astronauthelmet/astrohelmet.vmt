@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "fearless/hats/astronauthelmet/astrohelmet"
+	"$model" 1
+	"$envmapmode" 1
+}

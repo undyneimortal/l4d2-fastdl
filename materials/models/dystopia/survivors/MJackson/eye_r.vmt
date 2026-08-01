@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/dystopia/survivors/MJackson/eye_r"
+	"$iris" "models/dystopia/survivors/MJackson/eye_r"
+	"$halflambert" 1
+}

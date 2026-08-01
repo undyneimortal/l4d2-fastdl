@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "fearless\hats\drinkcap\drinkcap"
+	"$bumpmap" "fearless\hats\drinkcap\drinkcap_n"
+	"$model" 1
+	"$nocull" 1
+	"$phong" "1"
+//	"$phongexponent" 33
+	"$phongexponenttexture" "fearless\hats\drinkcap\drinkcap_p"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+}

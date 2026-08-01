@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/custom/nextblack/parts_c"
+	$selfillum 1
+}

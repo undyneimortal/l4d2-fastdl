@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/custom/maguire/tex_face"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+	$phongboost 0.3
+}

@@ -1,0 +1,27 @@
+patch
+{
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+$baseTexture "models/fearless/skins/survivors/miya/miya_hair2_color"
+$bumpmap "models/fearless/skins/survivors/miya/miya_hair2_normal"
+
+$nocull 1
+$alphatest 1
+$alphatestreference "0.9"
+$allowalphatocoverage 1
+
+$halflambert 0
+$diffuseexp "1.5"
+$ambientocclusion 1
+
+$phong 1
+$phongexponent 12
+$phongboost "0.1"
+$phongalbedotint 1
+$phongfresnelranges "[.1 1 1]"
+
+$lightwarptexture "models/survivors/coach/coach_head_wrp"
+}
+}
+

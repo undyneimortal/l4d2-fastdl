@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture 	"models\nationz\survivors\BlackSoldier\truck_eye_col"
+                "$nodecal" "1"
+}

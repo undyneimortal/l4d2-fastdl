@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "fearless/hats/afro/afro2"
+	"$model" 1
+	"$translucent" 1
+}

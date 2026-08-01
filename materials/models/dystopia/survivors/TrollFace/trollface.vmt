@@ -1,0 +1,15 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+	{
+		$baseTexture "models\dystopia\survivors\TrollFace\trollface"
+		$bumpmap "effects/flat_normal"
+
+		$phong 1
+		$phongexponent 15
+		$phongboost 2.5
+		$phongfresnelranges "[0 .35 1]"
+	}
+}
+

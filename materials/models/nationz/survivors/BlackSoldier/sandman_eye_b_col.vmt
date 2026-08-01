@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture 	"models\nationz\survivors\BlackSoldier\sandman_eye_b_col"
+                "$nodecal" "1"
+}

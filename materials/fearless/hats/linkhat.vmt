@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fearless/hats/linkhat"
+	"$nocull" 1
+}

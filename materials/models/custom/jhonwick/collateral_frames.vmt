@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/custom/jhonwick/collateral_frames"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongexponent" 8
+	"$phongfresnelranges"	"[0.05 2 5]"
+}

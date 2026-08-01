@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\custom\eggplantcat\PlantGlass"
+	"$bumpmap" "models\custom\bananacat\flat"
+	"$translucent" 1
+
+}

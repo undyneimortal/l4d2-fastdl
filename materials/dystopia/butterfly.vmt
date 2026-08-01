@@ -1,0 +1,7 @@
+"spritecard"
+{
+	$basetexture "dystopia/butterfly"
+	$SEQUENCE_BLEND_MODE 1
+	$blendframes 1
+	$depthblend 1
+}

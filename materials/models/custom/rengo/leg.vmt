@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/custom/rengo/leg"
+
+        "$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	".4"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.4 .4 2]"
+	"$PhongExponent" "8"
+	"$halflambert" "1"
+
+$rimlight               1
+$rimlightexponent       3
+$rimlightboost          4
+}
+

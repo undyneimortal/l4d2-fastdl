@@ -1,0 +1,7 @@
+"Spritecard"
+{
+	"$basetexture" "fearless\particle\sakura"
+	$translucent 1
+	$overbrightfactor 1
+	$addself 1
+}
