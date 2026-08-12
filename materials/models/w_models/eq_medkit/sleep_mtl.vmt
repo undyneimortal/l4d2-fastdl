@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/w_models/eq_medkit/sleep_diffuse"
+	"$nocull" 1
+	
+	
+
+	"$phong" "1"
+	"$phongboost" "0.48"
+	"$phongfresnelranges" "[1 .1 1]"
+	"$phongtint" "[1 1 1]"
+}
+
+
+
+

@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	$baseTexture			"Jett\CH_backpack\CH_backpack"
+	$bumpmap			"Jett\CH_backpack\CH_backpackN"
+	$phongexponenttexture		"Jett\CH_backpack\CH_backpackR"
+	$emissiveblendbasetexture		"Jett\CH_backpack\CH_backpackE"
+	$emissiveblendtexture		"Jett\CH_backpack\Emissive"
+	$emissiveblendflowtexture		"Jett\CH_backpack\Emissive"
+
+	$emissiveblendenabled		1
+	$emissiveblendtint			"[1 1 1]"
+	$emissiveblendstrength		1
+	$emissiveblendscrollvector		"[1 1]"
+	
+	$phong				1
+	$phongexponent			15
+	$phongboost			3
+	$phongfresnelranges		"[.125 .55 .075]"
+	$phongalbedotint			1
+
+	$color2				"[.8 .8 .8]"
+	$nocull				1
+}

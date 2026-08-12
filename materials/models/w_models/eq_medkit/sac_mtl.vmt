@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/w_models/eq_medkit/sac_diffuse"
+	"$bumpmap" "models/w_models/eq_medkit/sac_normal"
+	"$nocull" 1
+	
+	
+
+	"$phong" "0"
+	"$phongboost" "0.48"
+	"$phongfresnelranges" "[1 .1 1]"
+	"$phongtint" "[1 1 1]"
+	//"$phongexponenttexture"  }
+
+
+
+
