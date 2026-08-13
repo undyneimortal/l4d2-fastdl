@@ -3,7 +3,7 @@
 	"$basetexture" "fearless/particle/customw"
 	"$spriteorientation" "vp_parallel"
 	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$translucent" 1
+	"$additive" 1
 	"$nocull" 1
 	"Proxies"
 	{
