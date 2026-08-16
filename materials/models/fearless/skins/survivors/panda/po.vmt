@@ -1,0 +1,16 @@
+vertexlitgeneric
+{
+$baseTexture "models\fearless\skins\survivors\panda\po"
+$bumpmap "models\fearless\skins\survivors\panda\po normals"
+$phong 1
+$phongboost "1.4"
+$phongexponent 5
+$phongtint "[.85 .85 1]"
+$halflambert 0
+$phongfresnelranges "[.3 .65 30]"
+$ambientocclusion 1
+
+
+
+$diffuseexp "1.5"
+}
