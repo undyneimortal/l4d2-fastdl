@@ -1,0 +1,19 @@
+patch
+{
+include "models/fearless/skins/survivors/moonman/survivors_it_shared.vmt"
+insert
+{
+	$basetexture "mactonightfrancis/trousers_d"
+	$bumpmap "mactonightfrancis/trousers_n"
+	$phongexponenttexture "mactonightfrancis/trousers_m"
+	$nodecal 1
+	$ambientocclusion 1
+	$diffuseexp "1.5"
+
+	$phong "1"
+	$phongexponent "4"
+	$phongboost "2"
+	$phongfresnelranges "[0.05 0.15 1.0]"
+	$phongalbedotint "1"
+}
+}

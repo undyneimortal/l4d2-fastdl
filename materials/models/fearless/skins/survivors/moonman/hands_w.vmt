@@ -1,0 +1,25 @@
+patch
+{
+include "models/fearless/skins/survivors/moonman/survivors_it_shared.vmt"
+insert
+{
+	"$basetexture" "mactonightfrancis/hands_w"
+	"$bumpmap"     "mactonightfrancis/hands_n"
+	"$nodecal" "1"
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1.5"
+
+	"$phong" "1"
+	"$phongboost" "1.0"
+	"$phongexponent" "8"
+	"$phongfresnelranges"	"[.1 .5 1]"
+	
+
+	
+	"$phongtint" "[0.8 0.6 0.4]"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.2"
+	"$rimlightexponent" "4"
+}
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fearless/skins/survivors/mrwolf/MI_MrWolf"
+	"$bumpmap" "models/fearless/skins/survivors/mrwolf/MI_MrWolf_N"
+	"$nocull" 1
+	"$nodecal" 1
+}

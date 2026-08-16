@@ -1,0 +1,17 @@
+patch
+{
+include "models/fearless/skins/survivors/moonman/survivors_it_shared.vmt"
+insert
+{
+	$basetexture "mactonightfrancis/head_diff_000_a_whi"
+	$color2 "[0.9 0.9 0.9]"
+	$nodecal 1
+	$ambientocclusion 1
+	$diffuseexp "1.5"
+
+	$phong "1"
+	$phongexponent "6"
+	$phongboost "1"
+	$phongfresnelranges "[0.15 0.5 1.0]"
+}
+}

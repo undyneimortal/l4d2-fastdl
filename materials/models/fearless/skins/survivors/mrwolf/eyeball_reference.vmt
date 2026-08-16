@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fearless/skins/survivors/mrwolf/eyeball_reference"
+	"$nocull" 1
+	"$nodecal" 1
+}

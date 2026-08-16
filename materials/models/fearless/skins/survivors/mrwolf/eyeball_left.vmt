@@ -1,0 +1,38 @@
+"EyeRefract"
+{
+	"$Iris"               			"models/fearless/skins/survivors/mrwolf/eyeball_reference"
+	$AmbientOcclTexture 	"vgui/white" 
+	$Envmap 						"Engine/eye-reflection-cubemap-" 
+	$CorneaTexture 			"dev/flat_normal" 
+
+	"$nodecal" "1"
+	$glossiness	1
+	"$parallaxStrength" "0"
+    "$dilation" "0.4"
+	"$AmbientOcclColor" "[1 1 1]"
+	"$corneaBumpStrength" "0"
+	
+	"$raytraceSphere" "0"
+	"$sphereTexkillCombo" "0"
+	$halflambert 1
+	
+	$lightwarptexture	"models\dreamworks\allstarkartracing\wolf\toon_all"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
