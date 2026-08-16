@@ -1,7 +1,7 @@
 vertexlitgeneric
 {
-$baseTexture "models/fearless/skins/survivors/bill/bill_robe_color"
-$bumpmap "models/fearless/skins/survivors/bill/bill_robe_normal"
+$baseTexture "models\fearless\skins\survivors\bill\bill_robe_color"
+$bumpmap "models\fearless\skins\survivors\bill\bill_robe_normal"
 $halflambert 1
 $phong 1
 $phongboost "0.25"
